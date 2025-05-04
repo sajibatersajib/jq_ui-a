@@ -1,0 +1,59 @@
+
+
+Psd to html/ psd to bootstrap
+Psd to html responsive with bootstrap
+
+html, css, bootstrap, Js, Jq
+
+
+PT sans Bold & regular
+
+.pt-sans-regular {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 400;
+}
+
+.pt-sans-bold {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 700;
+}
+color=========
+
+Black #010101
+Ash #898989
+Yellow #fcdb00
+
+media Query===
+
+xxl= 1440px, 1600px 1800px 2100px
+xl= 1200 px,
+lg= 1024 px 
+
+md= 768px
+
+sm= 576px ,col= 320px 
+
+Header=============
+                xxl/xl/lg           md                  sm/col
+Menu  font-size     22              22
+
+Header Padding 
+    t_b             20              20                      10     
+
+Slider=============
+    padding        100-120          80                    50-70
+    h1                32            32                      25
+    h2                20            20                      18
+    p                 16            16                      16
+    icon              42            42                      35
+    pb              100             100                     60
+
+feature==========
+    pt              100             80                      50
+    pb              120             100                     70
+    h1               32              32                     25
+    P                20              20                     17
+    mt               70              50                     30
+    icon2nd          50              50                    
+    h2               22              22                    22/18
+    P                16              16                     16

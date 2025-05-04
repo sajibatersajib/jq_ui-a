@@ -1,0 +1,118 @@
+ /* 01 */
+ #draggable {
+  background-color: rgb(249, 17, 253);
+  color: white;
+  width: 150px; 
+  height: 150px; 
+  padding: 0.5em;
+}
+/* 02 */
+.drable{
+  overflow: hidden;
+}
+#drab3 {
+width: 100px; 
+height: 100px; 
+padding: 0.5em; 
+float: left; 
+margin: 10px 10px 10px 0; 
+}
+#drpab3 { 
+width: 150px; 
+height: 150px; 
+padding: 0.5em; 
+float: left; 
+margin: 10px; 
+}
+/* 03 */
+#resizable { 
+width: 150px; 
+height: 150px; 
+padding: 0.5em; 
+}
+#resizable h3 { 
+text-align: center; 
+margin: 0; 
+}
+.ui-resizable-helper { 
+  border: 1px dotted gray; 
+}
+/* 04 */
+#feedback { 
+font-size: 1.4em; 
+}
+#selectable .ui-selecting { 
+  background: #FECA40; 
+}
+#selectable .ui-selected { 
+background: #F39814; 
+color: white; 
+}
+#selectable { 
+list-style-type: none; 
+margin: 0; 
+padding: 0; 
+width: 450px; 
+}
+#selectable li { 
+margin: 3px; 
+padding: 1px; 
+float: left; 
+width: 100px; 
+height: 80px; 
+font-size: 4em; 
+text-align: center; 
+}
+/* 05 */
+.container{
+overflow: hidden;
+}
+#sortable1, #sortable2 {
+display: inline-block;
+border: 1px solid #eee;
+width: 142px;
+min-height: 20px;
+list-style-type: none;
+margin: 0;
+padding: 5px 0 0 0;
+float: left;
+margin-right: 10px;
+}
+#sortable1 li, #sortable2 li {
+margin: 0 5px 5px 5px;
+padding: 5px;
+font-size: 1.2em;
+width: 120px;
+}
+
+fieldset {
+border: 0;
+}
+label {
+display: block;
+margin: 30px 0 0 0;
+}
+.overflow {
+height: 200px;
+}
+
+.toggler{ 
+width: 500px; 
+height: 200px; 
+position: relative; 
+}
+#button { 
+padding: .5em 1em; 
+text-decoration: none; 
+}
+#effect { 
+width: 240px; 
+height: 170px; 
+padding: 0.4em; 
+position: relative; 
+}
+#effect h3 { 
+margin: 0; 
+padding: 0.4em; 
+text-align: center; 
+}
